@@ -2,8 +2,6 @@
 
 The Business Insights 360 Project involves Different Views Like Sales View, Finance View, Marketing View, Supply Chain View, Executive View for the Different teams in the company So that they utilise the data and get the useful insights from it. It also helps the stakeholder to make data driven decision making.
 
-Video Presentation: https://youtu.be/-GOcxe3ZrXM
-
 Power BI Live Public View: https://app.powerbi.com/view?r=eyJrIjoiODFiZTdlMTItOTQ3Yi00NDI5LTk0ZTMtODQ5MGMwMWRmNWQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀 ➡ SQL ➡ PowerBi Desktop ➡ Excel ➡ DAX language ➡ DAX studio (for optimizing the report) ➡ Project charter file
